@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1617706177 source:c:\users\kiend\downloads\10_color_keying.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<string>
+	<cstring>
+	<stdio.h>
+	<SDL_mixer.h>
+	<cmath>
+	<fstream>
+	<SDL_ttf.h>
+
+1617722923 source:c:\users\kiend\onedrive\desktop\game_2048\.cpp
+	<fstream>
+
